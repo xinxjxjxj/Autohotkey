@@ -1,0 +1,33 @@
+Version: 0.9 实现飞信发送消息的基本功能
+
+Version: 1.0 发送消息功能适配豆芽
+Author: Sword
+Date: 2013/4/3
+
+Version: 2.0 变更消息生成的实现方式
+
+Version: 3.0 发送消息间隔可自定义，增加了发送完成自动退出
+
+Version: 4.0 发送消息内容可自定义
+Author: Sword
+Date: 2015/11/25
+
+Version: 4.2 优化界面显示，增加重启功能
+Author: Sword
+Date: 2015/11/30
+
+Version: 5.0 优化界面显示，增加对微信、QQ的支持
+Author: Sword
+Date: 2015/11/30
+
+Version: 5.5 增加发送剪贴板的功能
+Author: Sword
+Date: 2015/12/12
+
+Version: 5.7 增加后台发送的功能
+Author: Sword
+2015/12/22
+
+Version: 5.8 增加后台发送的进度显示窗口
+Author: Sword
+2015/12/24
